@@ -49,7 +49,9 @@ A Power Automate cloud flow that runs automatically on every incoming order emai
 ### Successful run
 
 <img width="1913" height="904" alt="Captura de pantalla 2026-07-02 113446" src="https://github.com/user-attachments/assets/3ea28bc4-ebe3-4cc2-a477-663ab8978fa8" />
+
 ### Result in Excel
+
 <img width="1916" height="459" alt="Captura de pantalla 2026-07-02 113555" src="https://github.com/user-attachments/assets/a131b9c9-4216-433a-8d55-392f47d57209" />
 
 ## 🛠️ Tech Stack
